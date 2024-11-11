@@ -70,4 +70,5 @@ The app uses the [API Ninjas Sentiment Analysis API](https://api.api-ninjas.com/
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
+[LinkedIn Profile](https://www.linkedin.com/in/md-razib)
+
